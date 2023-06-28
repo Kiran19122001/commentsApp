@@ -1,0 +1,67 @@
+.amber {
+    background-color: #f59e0b;
+}
+
+.blue {
+    background-color: #0b69ff;
+}
+
+.orange {
+    background-color: #f97316;
+}
+
+.emerald {
+    background-color: #10b981;
+}
+
+.teal {
+    background-color: #14b8a6;
+}
+
+.red {
+    background-color: #b91c1c;
+}
+
+.light-blue {
+    background-color: #0ea5e9;
+}
+
+.items {
+    list-style: none;
+}
+
+.name-container {
+    display: flex;
+    align-items: center;
+}
+
+.first-char {
+    margin-right: 8px;
+    color: #ffffff;
+    background: #f59e0b;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.name-full {
+    color: #1e293b;
+    font-size: 18px;
+    font-weight: 700;
+    padding-right: 10px;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cmt {
+    padding-left: 50px;
+    color: #475569;
+}
+
+.icon-buttons {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
